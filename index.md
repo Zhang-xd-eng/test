@@ -8,7 +8,7 @@
 
 
 
-[a link to an external web site.]()
+[a link to an external web site.](first.md)
 
 
 
@@ -43,7 +43,7 @@
 >*斜体文字*
 
 
-删除线
+~~删除线~~
 
 分割线
 ----
