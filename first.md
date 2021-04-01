@@ -6,7 +6,7 @@
 
 
 
-[a link to an external web site.](index.md)
+[a link to an external web site.](README.md)
 
 
 ![存储库内图片](abc1.jpg)
